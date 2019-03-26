@@ -1,4 +1,4 @@
-//qs：请去掉字符串前后空格
+//QS：请去掉字符串前后空格
 function splits(arr) {
     for (var i = 0; i < arr.length; i++) {
         // 判断前边首个不为空格的字符为i
