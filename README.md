@@ -1,6 +1,8 @@
 # 大厂面试经历
 
 ### 2021年
+#### [广州|晓教育|一面](https://github.com/chendishen/for-test/issues/10)
+#### [东莞|华为|技术测评](https://github.com/chendishen/for-test/issues/9)
 #### [深圳|腾讯|一面](https://github.com/chendishen/for-test/issues/8)
 #### [深圳|顺丰|一面](https://github.com/chendishen/for-test/issues/7)
 #### [广州|CVTE|一面](https://github.com/chendishen/for-test/issues/6)
